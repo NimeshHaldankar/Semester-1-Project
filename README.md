@@ -1,1 +1,3 @@
 # Semester-1-Project
+
+In this project, I developed a robust machine learning model to assist banks in identifying potential financial risks from loan applicants. I employed advanced data pre-processing techniques such as one-hot encoding, normalization, and handling missing values to prepare the dataset. To enhance model performance, I applied Principal Component Analysis (PCA) for dimensionality reduction and used SMOTE to address class imbalance.  The final model, implemented using logistic regression, achieved an impressive 93% accuracy rate. This model is capable of accurately predicting true and false loan applicants, significantly improving the bank's ability to mitigate risks and make well-informed lending decisions.
